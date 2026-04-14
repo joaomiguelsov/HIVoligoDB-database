@@ -3,7 +3,6 @@
 **HIVoligoDB** (`HIVoligoID.sqlite`) is a curated database of oligonucleotides — primers and probes — designed for the molecular detection and characterisation of HIV-1 and HIV-2. It provides sequence data, genomic annotations, conservation metrics, and ranked primer pair combinations to support the design and evaluation of nucleic acid-based diagnostic assays.
 
 **Publication:** Carneiro J, Resende A, Pereira F. *The HIV oligonucleotide database (HIVoligoDB)*. Database (2017) Vol. 2017: bax005. https://doi.org/10.1093/database/bax005  
-**Web interface:** http://portugene.com/HIVoligoDB  
 **Format:** SQLite 3 · UTF-8 · ~2.2 MB
 
 ---
